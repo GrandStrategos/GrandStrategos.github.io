@@ -1,0 +1,15 @@
+/Users/joshuagreen/Lab 4/bin/Debug/net7.0/Lab 4
+/Users/joshuagreen/Lab 4/bin/Debug/net7.0/Lab 4.deps.json
+/Users/joshuagreen/Lab 4/bin/Debug/net7.0/Lab 4.runtimeconfig.json
+/Users/joshuagreen/Lab 4/bin/Debug/net7.0/Lab 4.dll
+/Users/joshuagreen/Lab 4/bin/Debug/net7.0/Lab 4.pdb
+/Users/joshuagreen/Lab 4/obj/Debug/net7.0/Lab 4.csproj.AssemblyReference.cache
+/Users/joshuagreen/Lab 4/obj/Debug/net7.0/Lab 4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshuagreen/Lab 4/obj/Debug/net7.0/Lab 4.AssemblyInfoInputs.cache
+/Users/joshuagreen/Lab 4/obj/Debug/net7.0/Lab 4.AssemblyInfo.cs
+/Users/joshuagreen/Lab 4/obj/Debug/net7.0/Lab 4.csproj.CoreCompileInputs.cache
+/Users/joshuagreen/Lab 4/obj/Debug/net7.0/Lab 4.dll
+/Users/joshuagreen/Lab 4/obj/Debug/net7.0/refint/Lab 4.dll
+/Users/joshuagreen/Lab 4/obj/Debug/net7.0/Lab 4.pdb
+/Users/joshuagreen/Lab 4/obj/Debug/net7.0/Lab 4.genruntimeconfig.cache
+/Users/joshuagreen/Lab 4/obj/Debug/net7.0/ref/Lab 4.dll
